@@ -22,8 +22,6 @@ brownie run <file>
 
 ```
 
----
-
 Also learned about **pip** and **pipx**, though I didn’t use pipx.
 
 **Difference between pip and pipx:**
@@ -37,3 +35,8 @@ Also explored **faucets** (websites that provide free test Ether to use on testn
 
 1. Deployed **Simple Storage** on the local network.
 2. Deployed **Brownie Simple Storage**.
+3. Tried to deploy **Brownie Fund Me**, but got stuck midway.
+
+---
+
+## This repo is paused for now, but might continue later.
